@@ -9,8 +9,6 @@
 
 **Note: the linking order is important, or your touchscreen will not work (see installation instructions below). Recommendation: run it with only one screen or two, because otherwise you will likely run into script CPU usage problems before optimizations are done.**
 
-Very soon we will be linking a YouTube video here explaning the installation and usage of the script in detail. For now please see the installation and usage description below the following screenshots, as well as a note about the roadmap and known issues.
-
 *Created By Dorian Gray, Scion Interstellar*
 
 *Discord: Dorian Gray#2623 - InGame: DorianGray - GitHub: https://github.com/DorianTheGrey/DU-DamageReport*
