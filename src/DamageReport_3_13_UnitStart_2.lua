@@ -632,9 +632,9 @@ function UpdateDamageData(initial)
 
         if initial == true then
             if
-                idType == "atmospheric fuel-tank" or
-                idType == "space fuel-tank" or
-                idType == "rocket fuel-tank" 
+                idType == "Atmospheric fuel tank" or
+                idType == "Space fuel tank" or
+                idType == "Rocket fuel tank" 
             then
                table.insert(typeElements, id)
             end
