@@ -1,13 +1,15 @@
 --[[
     Damage Report 3.13
     A LUA script for Dual Universe
+    
+    Upkeep: NGT
 
     Created By Dorian Gray
     Ingame: DorianGray
     Discord: Dorian Gray#2623
 
     You can find/update this script on GitHub. Explanations, installation and usage information as well as screenshots can be found there too.
-    GitHub: https://github.com/DorianTheGrey/DU-DamageReport
+    GitHub: https://github.com/Bayouking1/DU-DamageReport
 
     GNU Public License 3.0. Use whatever you want, be so kind to leave credit.
     
